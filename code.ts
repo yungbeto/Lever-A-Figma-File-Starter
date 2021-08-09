@@ -45,7 +45,7 @@ figma.ui.onmessage = async msg => {
 
     let run = async () => {
       await loadCoverTitle();
-      figma.notify("🎉 Revel template created! Now make something beautiful ✨");
+      figma.notify("🎉 Your template has been created! Now make something beautiful ✨");
       figma.closePlugin();
     }
 
