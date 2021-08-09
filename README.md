@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/19412656/128766176-77055f9d-ba75-4e3d-9fc6-b5555ed4e0bd.png)
+
+
 # Lever
 A(nother) simple Figma file starter plugin made by [Roby Saavedra](https://read.cv/roby) for the wonderful design team at [Revel Transit](https://github.com/revel-transit) to promote a consistent organizational framework within a product team. 
 
