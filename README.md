@@ -1,5 +1,5 @@
 # Lever
-A(nother) simple Figma file starter plugin to promote a consistent organizational framework within your team. 
+A(nother) simple Figma file starter plugin made by [Roby Saavedra](https://read.cv/roby) for the wonderful design team at [Revel Transit](https://github.com/revel-transit) to promote a consistent organizational framework within a product team. 
 
 
 This project is indebted to 
