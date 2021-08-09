@@ -15,7 +15,7 @@ figma.ui.onmessage = async msg => {
     coverFrame.name = 'Cover Thumbnail';
     coverPage.appendChild(coverFrame);
     coverFrame.resize(1240, 640);
-    coverFrame.fills = [{ type: "SOLID", color: { r: 0 / 255, g: 185 / 255, b: 242 / 255 } }];
+    coverFrame.fills = [{ type: "SOLID", color: { r: 255/ 255, g: 255 / 255, b: 255 / 255 } }];
 
     // Set page names and renames the default "Page 1"
     figma.currentPage.name = "✅ - Dev Ready [DO NOT EDIT]";
@@ -33,7 +33,7 @@ figma.ui.onmessage = async msg => {
       await figma.loadFontAsync({ family: "Work Sans", style: "Bold" });
       coverTitle.fontName = { family: "Work Sans", style: "Bold" };
       coverTitle.characters = msg.message;
-      coverTitle.fills = [{ type: 'SOLID', color: { r: 255 / 255, g: 255 / 255, b: 255 / 255 } }]
+      coverTitle.fills = [{ type: 'SOLID', color: { r: 60 / 255, g: 60 / 255, b: 60 / 255 } }]
       coverTitle.x = 104;
       coverTitle.y = 0;
       coverTitle.fontSize = 80;
