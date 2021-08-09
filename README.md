@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/19412656/128766176-77055f9d-ba75-4e3d-9fc6-b5555ed4e0bd.png)
+![image](https://raw.githubusercontent.com/yungbeto/Lever-A-Figma-File-Starter/main/assets/Lever-Header.png)
 
 
 # Lever
