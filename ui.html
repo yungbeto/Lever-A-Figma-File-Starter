@@ -54,12 +54,12 @@
     color: #fff;
     width: auto;
     border: 1px solid #00b9f2;
+    border-radius: 8px;
   }
   button:focus,
   button:hover {
     background-color: #00a6d9;
     outline: none;
-    border-radius: 0px;
     cursor: pointer;
   }
   header {
@@ -90,14 +90,15 @@
 <body>
   <section id="coverui" onload="myfnc()">
     <form>
-      <label for="message">File Name</label>
+      <label for="message">File Name (32 char max)</label>
       <input
         placeholder="Enter a name for this file"
         id="message"
         type="text"
+        maxlength="32"
         autofocus
       />
-      <small>This will display on the cover page</small>
+      <small>This will display on the cover page.</small>
 
       <span class="buttonRow">
         <button id="create">Create</button>
